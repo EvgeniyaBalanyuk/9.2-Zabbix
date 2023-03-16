@@ -23,6 +23,6 @@
 
 ![VirtualBox_kube2_16_03_2023_14_11_43](https://user-images.githubusercontent.com/62482983/225601297-64791e1e-53b6-404d-ab35-4e6df23ec396.png)
 
-![VirtualBox_kube2_16_03_2023_14_13_17](https://user-images.githubusercontent.com/62482983/225601174-48f8e52a-7fff-4a9e-b876-eae6b66021a6.png)
+![VirtualBox_kube2_16_03_2023_14_25_42](https://user-images.githubusercontent.com/62482983/225602997-0ad47a20-0040-455b-95f9-15d6fc9a9fa2.png)
 
-![VirtualBox_kube2_16_03_2023_14_13_27](https://user-images.githubusercontent.com/62482983/225601228-58ac82cc-f0cd-4942-8f7e-ae651f24f795.png)
+![VirtualBox_kube2_16_03_2023_14_25_55](https://user-images.githubusercontent.com/62482983/225603043-7b57bb7c-03f0-4509-b816-b132deb497b1.png)
